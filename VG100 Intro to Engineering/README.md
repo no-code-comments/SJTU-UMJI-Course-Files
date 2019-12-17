@@ -20,7 +20,7 @@ Compared with other courses in the first year, VG100 is the most difficult one, 
 
 ## Tips
 
-- If you take Shane’s or Shen’s section, the project will cover electronic control using Arduino. If you take Zhang’s section, the project will cover engineering drawing using 
+- If you take Shane’s or Shen’s section, the project will cover electronic control using Arduino. If you take Zhang’s section, the project will cover engineering drawing using SolidWorks (or other CAD softwares).
 - There will be no final exam because of the existence of the EXPO. So the midterm exam is the only exam you will be involved. Be careful that there will be many questions for TC (Technical Communication) parts.
 - VP141, another course with lots of workload, will start from the fifth week, very close to the due date of the first project. You need to arrange your time well.
 - Unfortunately, you will not learn anything useful in VG100.

@@ -46,6 +46,7 @@ Because of the limitation of Github, one file cannot exceed the maximum size 25M
 - For **practicing your knowledge**, there are some problems in the files in **Course slides** and **Reference**. However, problems in **Homework** is **not a good alternative** because no solutions will be provided, except the homework using the problems from the textbooks.
 - For **reviewing the contents** (for the exams), **Worksheet** provides some bullet points of the whole course. Nevertheless, most of the course doesn’t provide worksheet.
 - **Homework** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little different due to the update of the course.
+- For those markdown files, using your own markdown previewer is recommended, since you cannot see math formulas on GitHub.
 
 ## Acknowledgement
 

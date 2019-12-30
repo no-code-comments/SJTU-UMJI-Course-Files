@@ -12,7 +12,7 @@ You need to buy the **code** for Sapling.
 
 You’d better get the textbook for this course. *Chemical Principles* written by Peter Atkins.
 
-The textbook is now uploaded in **Reference** folder. Due to the limitiation of Github, it is distributed into three files. You should download all of them and extract the file ends with ".zip".
+The textbook is now uploaded in **Reference** folder. Due to the limitation of Github, it is distributed into three files. You should download all of them and extract the file ends with ".zip".
 
 ## Description
 

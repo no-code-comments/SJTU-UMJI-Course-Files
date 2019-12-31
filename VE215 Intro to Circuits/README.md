@@ -1,4 +1,4 @@
-# VE215
+# VE215 Intro to Circuits
 
 ## Information
 

@@ -22,7 +22,7 @@ The course also contains five lab sessions. You need to . However, in this cours
 - You can begin the lab as soon as you arrive. You can also be late for the lab.
 - You can copy all parts before the Results part from the manual to your report.
 
-There will be little tutorial for **PSpice** and other electronic drawing software. However, you need to be familiar with the software in that there will be some assignment related to it. A tutorial for **PSpice** performed by Zuheng Liu will be uploaded in **Reference** folder.
+There will be little tutorial for **PSpice** and other electronic drawing software. However, you need to be familiar with the software in that there will be some assignment related to it. A tutorial for **PSpice** performed by Zuheng Liu and a tutorial for **Multisim** has been uploaded in **Reference** folder.
 
 For practice, the solution after the textbook is far more enough since it will only give you the answer. For detailed solution, you can visit the website https://www.studocu.com/en/document/university-of-california-riverside/introduction-to-electrical-engineering/other/fundamentals-of-electronic-circuits-solution-manual-alexander-5th-edition/3628242/view. 
 

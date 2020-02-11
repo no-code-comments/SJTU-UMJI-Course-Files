@@ -4,7 +4,7 @@
 
 Instructor: Mateusz Krzyzosiak
 
-Semester: 2018 Summer
+Semester: 2019 Fall
 
 ## Prerequisite
 

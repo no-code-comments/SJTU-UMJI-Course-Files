@@ -4,7 +4,7 @@
 
 ## Declaration
 
-When it comes to **Honor Code**, albeit JI students are restrained by it, you don’t need to worry about it when copying and using the files in this repositories. **All of the materials** are not related to any solutions to the problems and projects written by other students’ and my answers, and can be directly downloaded from the Internet or Canvas. My own solutions will be uploaded in my private repository out of your reach.
+When it comes to **Honor Code**, albeit JI students are restrained by it, you don’t need to worry about it when copying and using the files in this repositories. **All of the materials** are not related to any solution to the problems and projects written by other students’ or me, and **all of the materials** are available on the Internet or Canvas.
 
 :warning:For reminder, if you are a JI student and find any solutions to the homework or the projects,
 

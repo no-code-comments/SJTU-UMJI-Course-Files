@@ -2,7 +2,7 @@
 
 This file will only tell you how to calculate the uncertainty.
 
-The precision of the uncertainty is generally 1 significant figure, but if the highest digit is 1, it should be two significant digits. For example: `0.12`, `0.4`, `0.6`, `0.10`.
+The precision of the uncertainty is generally 1 significant figure, but if the highest non-zero digit is 1, it should be two significant digits. For example: `0.12`, `0.4`, `0.6`, `0.10`.
 
 For every values you calculate in the result part, it should has its uncertainty. Additionally, the precision of the value should be the same as the precision of the uncertainty.
 

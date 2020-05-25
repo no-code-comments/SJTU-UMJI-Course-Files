@@ -29,7 +29,7 @@ $$u_x = \sqrt{(\dfrac{\partial x}{\partial a}u_a)^2 + (\dfrac{\partial x}{\parti
 
 For example, $x = x_1 + x_2$, then the uncertainty for $x$ is 
 
-$$u = \sqrt{(\dfrac{\partial x}{\partial x_1}u_{x_1})^2 + (\dfrac{\partial x}{\partial x_2}u_{x_2})^2} = \sqrt{u_{x_1}^2 + u_{x_2}^2}$$
+$$u = \sqrt{\left(\dfrac{\partial x}{\partial x_1}u_{x_1}\right)^2 + \left(\dfrac{\partial x}{\partial x_2}u_{x_2}\right)^2} = \sqrt{u_{x_1}^2 + u_{x_2}^2}$$
 
 The calculation can be disgusting. You need to first get the formula and then put the values into the formula. Directly showing the answer may receives deduction.
 
@@ -39,7 +39,7 @@ For plotting figures, you need to add error bars, making the data points as foll
 
 <img src="images\1.png" style="zoom:50%;" />
 
-Sometimes, the uncertainty is very small, the data points will become a cross
+Sometimes, the uncertainty is very small, and then the data points will become a cross
 
 <img src="images\2.png" style="zoom:50%;" />
 

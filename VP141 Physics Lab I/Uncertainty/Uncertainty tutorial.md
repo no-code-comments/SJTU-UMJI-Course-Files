@@ -25,7 +25,7 @@ The value of $t_{0.95,n}$ can be found at the end of this file.
 
 In this case, it means that you need to calculate from other values. The general formula of the uncertainty of $x = f(a,b,\cdots)$ is
 
-$$u_x = \sqrt{(\dfrac{\partial x}{\partial a}u_a)^2 + (\dfrac{\partial x}{\partial b}u_b)^2 + \cdots}$$
+$$u_x = \sqrt{\left(\dfrac{\partial x}{\partial a}u_a\right)^2 + \left(\dfrac{\partial x}{\partial b}u_b\right)^2 + \cdots}$$
 
 For example, $x = x_1 + x_2$, then the uncertainty for $x$ is 
 

@@ -4,7 +4,7 @@
 
 Instructor: Zhang Qiang
 
-Semester: 2018 Summer
+Semester: 2019 Summer
 
 ## Prerequisite
 

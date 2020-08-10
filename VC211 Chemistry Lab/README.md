@@ -4,7 +4,7 @@
 
 Instructor: Sun Ting
 
-Semester: 2018 Spring
+Semester: 2019 Spring
 
 ## Prerequisite
 

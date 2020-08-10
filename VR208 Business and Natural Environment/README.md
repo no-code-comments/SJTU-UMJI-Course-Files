@@ -4,7 +4,7 @@
 
 Instructor: Sam Ro
 
-Semester: 2019 Fall
+Semester: 2019 Spring
 
 ## Prerequisite
 

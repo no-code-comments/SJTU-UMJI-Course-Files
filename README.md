@@ -30,12 +30,12 @@ Again, the homework and the projects will be provided, but their solutions writt
 The contents in this repository mainly cover the following contents if exist:
 
 - **README**: A README file to furtherly illustrate the course, maybe accompanied with some comments and advice.
-- **Course slides:** The slides used by the instructor to hold the lecture. 
-- **Homework:** The assignment given by the instructor, required to be finished by the due date.
+- **Course Slides:** The slides used by the instructor to hold the lecture. 
+- **Assignment:** The assignment given by the instructor, required to be finished by the due date.
 - **Project:** Hard assignment provided by the instructor, required to be finished by the due date.
-- **Worksheet:** The classical problems or guidance questions offered by instructor or TAs. 
-- **Reference:** The materials related to the course.
-- There are other folders varied from courses.
+- **Lab**: Documents related to the lab section, required to be finished before or during the lab.
+- **Reference:** The other materials related to the course.
+- There amy be some other folders containing different files varied from courses.
 
 Because of the limitation of Github, one file cannot exceed the maximum size 25MB, so the file will be distributed into several zip files. You should download all the zip files and extract the ".zip" file. For convenience, if there are more files distributed in several sub-files, they will be loaded into seperated folders.
 
@@ -43,10 +43,9 @@ Because of the limitation of Github, one file cannot exceed the maximum size 25M
 
 - Please read the **course title** and **instructor** carefully, or you will be pumped into a totally wrong way.
 - For **learning new knowledge**, files in **Course slides** or **Reference** give a comprehensive tutorial to the realm what you are searching for. 
-- For **practicing your knowledge**, there are some problems in the files in **Course slides** and **Reference**. However, problems in **Homework** is **not a good alternative** because no solutions will be provided, except the homework using the problems from the textbooks.
-- For **reviewing the contents** (for the exams), **Worksheet** provides some bullet points of the whole course. Nevertheless, most of the course doesn’t provide worksheet.
-- **Homework** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little different due to the update of the course.
-- For those markdown files, using your own markdown previewer is recommended, since you cannot see math formulas on GitHub.
+- For **practicing your knowledge**, there are some problems in the files in **Course slides** and **Reference**. However, problems in **Assignment** is **not a good alternative** because no solutions will be provided, except the homework using the problems from the textbooks.
+- **Assignment**, **Lab** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little different due to the update of the course.
+- For those markdown files, using your own markdown previewer is recommended, since you cannot see math formulas on GitHub, or you need to download specialized plug-in.
 
 ## Acknowledgement
 

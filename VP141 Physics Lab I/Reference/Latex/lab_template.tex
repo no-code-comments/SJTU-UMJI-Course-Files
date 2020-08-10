@@ -1,0 +1,180 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage{color}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{fontspec}
+\usepackage{setspace}
+\usepackage[version=4]{mhchem}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{subfigure}
+\usepackage{makecell}
+\usepackage{multicol}
+\usepackage{ulem}
+\usepackage{xhfill}
+\usepackage{graphicx}%Figure
+\usepackage{epstopdf}%eps figure
+\usepackage{lastpage}
+\usepackage{indentfirst}
+\usepackage{tabu}
+\usepackage{xcolor}%定义了一些颜色
+\usepackage{colortbl,booktabs}%第二个包定义了几个*rule
+\usepackage{longtable,booktabs}
+\usepackage{float}
+
+\usepackage{hyperref}
+\hypersetup{
+colorlinks=true,
+linkcolor=black,
+filecolor=black,      
+urlcolor=black,
+citecolor=black,
+}
+
+% contents
+\usepackage{titlesec}
+\usepackage{titletoc}
+\setcounter{tocdepth}{2}
+
+\titlecontents
+{section}
+[1.5cm]
+{\bf \large}
+{\contentslabel{2.5em}}
+{}
+{\titlerule*[0.5pc]{$\cdot$}\contentspage\hspace*{1.5cm}}
+[\vspace{0.5em}]
+
+\titlecontents{subsection}
+[2.5cm]
+{\bf \normalsize}
+{\contentslabel{2.5em}}
+{}
+{\titlerule*[0.5pc]{$\cdot$}\contentspage\hspace*{1.5cm}}
+[\vspace{0.5em}]
+
+%math
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{mathtools}
+\usepackage{mathrsfs}
+%%%%%%%%%%%%%%%%%
+
+\usepackage[labelfont=bf]{caption}%naming figure or table
+\usepackage{multirow}%multiple rows in table
+\usepackage{enumitem}% http://ctan.org/pkg/enumitem
+
+%My vectors and matrices
+\usepackage[usestackEOL]{stackengine} 
+\stackMath 
+\setstackgap{L}{1.2\normalbaselineskip} \geometry{left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm}
+
+%table
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+
+\begin{document}
+
+\small
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\parindent}{0pt}
+
+\vspace*{0.25cm}
+
+\begin{figure}[H]
+\centering{\includegraphics[width=12cm]{images/ji_logo.png}}
+\end{figure}
+
+\hrulefill
+
+\thispagestyle{empty}
+
+\begin{center}
+\begin{large}
+\sc{UM--SJTU Joint Institute \vspace{0.3em} \\ Phtsics Lab I \\(VP141)}
+\end{large}
+
+\hrulefill
+
+\vspace*{5cm}
+\begin{Large}
+\sc{{Laboratory Report}}
+\end{Large}
+
+\vspace{2em}
+
+\begin{large}
+\sc{Exercise {\color{purple}No.}
+\vspace{0.5em}
+
+{\color{purple}Lab Title}}
+\end{large}
+\end{center}
+
+
+\vfill
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{ll}
+Name: & {\color{purple}Your name}\\
+ID: & {\color{purple}Your student ID}\\
+Date: & {\color{purple}Date of the lab}\\
+\end{tabular}
+\end{table}
+
+\hfill
+
+\clearpage
+
+\tableofcontents
+\clearpage
+
+\section{Introduction}
+\begin{table}[H]
+\centering
+\caption{Evaluation of professors}
+\begin{tabular}{|c|c||c|c|}
+\hline
+\textbf{Professor} & \textbf{Score} & \textbf{Professor} & \textbf{Score} \\
+\hline
+C.SL & 0.1 & O.D & 9.5 \\
+\hline
+C.M & 0.0 & Q.WK & 10.0 \\
+\hline
+S.HB & 2.0 & R.T & 10.0 \\
+\hline
+\end{tabular}
+\end{table}
+
+\clearpage
+
+\section{Apparatus}
+
+\clearpage
+
+\section{Procedure}
+
+\clearpage
+
+\section{Result}
+
+\clearpage
+
+\section{Conclusions and Discussions}
+
+\clearpage
+
+\setcounter{section}{0}
+\renewcommand{\thesection}{\Alph{section}.}
+
+\section{Uncertainty}
+
+\clearpage
+
+\section{Reference}
+
+\clearpage
+
+
+\end{document}

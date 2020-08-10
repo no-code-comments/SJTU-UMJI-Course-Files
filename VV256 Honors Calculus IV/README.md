@@ -12,7 +12,7 @@ You don’t need to prepare anything for this course.
 
 ## Description
 
-This course extends VV255. Some basic types of differential equation are the focus of this course.
+This course extends VV255. Some basic types of differential equations are the focus of this course.
 
 ## Tips
 

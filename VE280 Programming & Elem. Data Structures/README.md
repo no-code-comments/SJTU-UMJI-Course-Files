@@ -10,7 +10,7 @@ Semester: 2019 Fall
 
 You need to install a Linux virtual machine with C++.
 
-In general, VMWare and Ubuntu is a good option.
+In general, VMWare with Ubuntu is a good option.
 
 ## Description
 

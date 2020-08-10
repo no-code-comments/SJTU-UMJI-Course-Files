@@ -40,7 +40,7 @@ There are some taboos when taking this course (some important are listed below),
 
 - Learn faster than Manuel if you don’t know anything about programming. Some techniques need to be used in the project may be delivered very late. “Linked list” in C project is a very good example. (You at least need to learn linked list very early to solve the second project.)
 - Start the projects early or you will be burdened. The projects provided by Manuel is extremely tricky.
-- Manuel’s exam is very stiff, with lots of problems to be solved. Don’t be frustrated if you review for a long time and get a score with on digital.
+- Manuel’s exam is very stiff, with lots of problems to be solved. Don’t be frustrated if you review for a long time and get a score with one digit.
 - Read the project description carefully, because there will be four questions related to the project in the exam. If you do not very well, your project will receive (huge) deduction.
 - When it comes to installing software in China, pirate version is better than the legal one.
 

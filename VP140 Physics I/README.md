@@ -16,7 +16,7 @@ VP140 is another fundamental course, mainly including dynamics. You are able to 
 
 There will be some assignment to be finished online through Mastering Physics. For one blank, you will only have three chances. Get pass in one time, 100 mark; get pass in two times, 97 mark; three times, 94 mark, or you will get absolutely 0. For a whole problem, if you get full mark, you may get bonus points, which means you get 100+ mark. So it is possible that you get full mark at last with some errors in the process, not like Chemistry.
 
-There is a problem set in **Reference** folder, but problems in there are much more difficult than those you will solve in the exams. However, I find it effective to improve by reading a few problems in that book, so I give you one alternative when you are reviewing.
+There is a problem set in **Reference** folder, but problems in there are much more difficult than those you will solve in the exams. However, I find it effective to improve by reading a few problems in that book, so I give you one alternative when you are reviewing.
 
 ## Tips
 

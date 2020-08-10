@@ -57,4 +57,4 @@ Since using $\LaTeX$ to write your report is recommended, their will be a simple
 - The correctness, accuracy and precision of the lab also affects the lab to some extents, so be serious when conducting the experiments.
 - The most important things about $\LaTeX$ is its **MathJax**, that is, how to show math formula in codes. This technique is also available in Markdown. Moreover, their is a tool called **Mathpix Snip**, which can transform figures (even hand-written) with latex math formula into latex codes, but at most 50 figures per month can be translated.
 - Again, a sample report is given by the instructor, and again, it is not excellent enough.
-- $LaTeX$ is a useful tool, only because some instructors will force you to use it.
+- $\LaTeX$ is a useful tool, only because some instructors will force you to use it.

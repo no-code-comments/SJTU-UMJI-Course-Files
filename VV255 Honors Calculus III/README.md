@@ -4,7 +4,7 @@
 
 Instructor: Olga Danilkina
 
-Semester: 2018 Summer
+Semester: 2019 Summer
 
 ## Prerequisite
 

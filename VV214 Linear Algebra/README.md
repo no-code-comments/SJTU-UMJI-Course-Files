@@ -10,7 +10,7 @@ Semester: 2020 Summer
 
 You don’t need to prepare anything for this course.
 
-Notwithstanding, Matlab will help you a lot regarding matrices calculation.
+Notwithstanding, **Matlab** will help you a lot regarding matrices calculation.
 
 ## Description
 
@@ -20,7 +20,7 @@ VV214 or VV417 is a mandatory program course for ME students, and a general elec
 
 ## Tips
 
-- Using Matlab to calculate matrices is convenient and fast, but you may not allowed to do that in the exam.
+- Using **Matlab** to calculate matrices is convenient and fast, but you may not allowed to do that in the exam.
 - Be prepared to face lots of calculations and problems in the exams.
 - The latest linear algebra course 2020 taught by MIT professor Gilbert Strang is available.
 

@@ -16,7 +16,7 @@ VE215 is a basic course for Electronics, and it is the prerequisite for VE216 an
 
 It will cover the content about how to analyze the electric circuits.
 
-The course also contains five lab sessions. You need to . However, in this course, you do not need to be as serious as VP141 and VP241. You need to form a team before starting the lab by yourselves. This is only because the devices are limited, so one single person is also accepted in this lab.
+The course also contains five lab sessions. You need to enroll all the lab on time. However, in this course, you do not need to keep as serious as VP141 and VP241 due to low requirements. You need to form a team before starting the lab by yourselves. This is only because the devices are limited, so one single person is also accepted in this lab.
 
 - There will be no quiz.
 - You can begin the lab as soon as you arrive. You can also be late for the lab.
@@ -28,7 +28,7 @@ For practice, the solution after the textbook is far from being desired since it
 
 ## Tips
 
-- The first exam will be EXTREMELY EASY! The second exam will be PARTICULARLY DIFFICULT! For the second exam, there will be lots of calculations. Be fully prepared for the problems containing three wye-delta transformation or more.
+- The difficulty of exams can vary in a large range, depending on the difficulty of calculations.
 - Most of the quizzes use the problems from the textbooks.
 - “The problem is very easy. You can just use KCL and KVL to solve it.”
 

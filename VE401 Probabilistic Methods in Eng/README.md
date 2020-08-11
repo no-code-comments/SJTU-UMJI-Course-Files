@@ -10,7 +10,7 @@ Semester: 2020 Spring
 
 You don’t need to prepare anything for this course in advance.
 
-Notwithstanding, Mathematica will help you understand and calculate during the course.
+Notwithstanding, **Mathematica** will help you understand and calculate during the course.
 
 ## Description
 

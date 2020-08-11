@@ -20,4 +20,4 @@ This course extends VV156, continuing to teach Calculus. Integrals is the focus 
 - The first thing you need to learn in this course is to recognize what she is saying.
 - The second thing you need to learn in this course is to recognize what she is writing.
 - The third thing you need to learn in this course is to recognize what she is teaching.
-- Excellent students never use Olga’s slides to review.
+- Excellent students never listen Olga’s course.

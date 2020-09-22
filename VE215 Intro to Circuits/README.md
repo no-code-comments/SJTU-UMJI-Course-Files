@@ -24,8 +24,6 @@ The course also contains five lab sessions. You need to enroll all the lab on ti
 
 There will be little tutorial for **PSpice** and other electronic drawing software. However, you need to be familiar with the software in that there will be some assignment related to it. A tutorial for **PSpice** performed by Zuheng Liu and a tutorial for **Multisim** has been uploaded in **Reference** folder.
 
-For practice, the solution after the textbook is far from being desired since it will only give you the answer. For detailed solution, you can visit the website https://www.studocu.com/en/document/university-of-california-riverside/introduction-to-electrical-engineering/other/fundamentals-of-electronic-circuits-solution-manual-alexander-5th-edition/3628242/view. 
-
 ## Tips
 
 - The difficulty of exams can vary in a large range, depending on the difficulty of calculations.

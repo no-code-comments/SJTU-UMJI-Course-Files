@@ -1,0 +1,5 @@
+.model Mbreakp PMOS 
++LEVEL=1  VTO=-0.8  GAMMA=0.4  PHI=0.8
++NSUB=5e+14  LD=0.09e-6  UO=100  LAMBDA=0.2
++TOX=9e-9  PB=0.9  CJ=0.94e-3  CJSW=0.32e-11
++MJ=0.5  MJSW=0.3  CGDO=0.3e-9  JS=0.5e-8

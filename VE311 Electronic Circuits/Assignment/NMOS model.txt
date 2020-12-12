@@ -1,0 +1,5 @@
+.model Mbreakn NMOS 
++LEVEL=1  VTO=0.7  GAMMA=0.45  PHI=0.9
++NSUB=9e+14  LD=0.08e-6  UO=350  LAMBDA=0.1
++TOX=9e-9  PB=0.9  CJ=0.56e-3  CJSW=0.35e-11
++MJ=0.45  MJSW=0.2  CGDO=0.4e-9  JS=1.0e-8

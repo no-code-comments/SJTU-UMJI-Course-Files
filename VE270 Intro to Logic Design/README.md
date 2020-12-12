@@ -25,7 +25,7 @@ Tutorials for installation and usage of **Multisim** and **Xilinx Vivado** is gi
 - Using .bit file to program the device is very fast; nevertheless, it’s very slow to generate .bit file.
 - **Multisim** cannot save .bit file, so it will be time-consuming to program the device every time.
 - Verilog is a C-like language, but I don’t recommend you to understand it in the view of “programming language” but actually “circuits”. The logic of Verilog is slightly different from that of programs.
-- Do your lab when you have other assignment! Or you will be crazy…
+- Do your lab when you have other assignment!
 
  
 

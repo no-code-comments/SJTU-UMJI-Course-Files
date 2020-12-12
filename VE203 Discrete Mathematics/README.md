@@ -1,4 +1,4 @@
-# VC210 Chemistry
+# VE203 Discrete Mathematics
 
 ## Information
 

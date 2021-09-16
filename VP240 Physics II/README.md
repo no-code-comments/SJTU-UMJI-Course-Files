@@ -19,7 +19,7 @@ The exam counts 80% of the final score, so please treat them seriously.
 ## Tips
 
 - For the first exam, carefully read the slides, especially those examples without answers on the slides. For the second exam, carefully read the textbook and notice to abandon all of the slides.
-- If you are a student major in ME or MSE, even though his course is a bit boring, but compared with MK’s, which will cover circuits (things taught in VE215, a course unavailable to ME / MSE sophomore) in the exam, Wan Wenjie may be your better choice.
+- If you are a sophomore student major in ME or MSE, even though his course is a bit boring, but compared with MK’s, which will cover circuits (things taught in VE215, a course not suitable for ME / MSE sophomore) in the exam, Wan Wenjie may be your better choice.
 - Many people strongly recommend others to take the lectures of MK’s course and the exams of Wan’s course.
 
  

@@ -24,10 +24,14 @@ Moreover, the materials are owned by corresponding creators. The course slides a
 This paragraph is specially for those JI freshmen. Since you have just already stepped into the university, A piece of idea may be useful to you.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 The people who teach you in university is usually called instructor or professor, instead of teacher, not because their skills are higher (even though it is true), but because they are not capable to teach well. They don't have the time to teach well. They don't have the will to teach will. They even don't have the ability to teach well. Therefore, don't expect the instructor can make everything clear, and learn everything by yourselves.
 
 Moreover, some objective facts will be written in README files in the folders. Hope you can know more about the instructor and the course. The statements are strictly related on the time, the instructor and the course materials, so all the materials are just for reference.
 
+=======
+The people who teach you in university is usually called instructor or professor, instead of teacher, not because their skills are higher (even though it is true), but because they are not capable to teach well. They don't have the time to teach well. They don't have the will to teach well. They even don't have the ability to teach well. Therefore, don't expect the instructor can make everything clear and you need to be prepared to learn everything by yourselves.
+>>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a
 =======
 The people who teach you in university is usually called instructor or professor, instead of teacher, not because their skills are higher (even though it is true), but because they are not capable to teach well. They don't have the time to teach well. They don't have the will to teach well. They even don't have the ability to teach well. Therefore, don't expect the instructor can make everything clear and you need to be prepared to learn everything by yourselves.
 >>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a
@@ -80,7 +84,11 @@ Because of the limitation of Github, one file cannot exceed the maximum size 25M
 - For **learning new knowledge**, files in **Course slides** or **Reference** give a comprehensive tutorial to the realm what you are searching for. 
 - For **practicing your knowledge**, there are some problems in the files in **Course slides** and **Reference**. However, problems in **Assignment** is **not a good alternative** because no solutions will be provided, except the homework using the problems from the textbooks.
 <<<<<<< HEAD
+<<<<<<< HEAD
 - **Assignment**, **Lab** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little (or totally) different due to the update of the course.
+=======
+- **Assignment**, **Lab** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little different due to the update of the course. If the instructor changes, the content of these parts may be **completely different**.
+>>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a
 =======
 - **Assignment**, **Lab** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little different due to the update of the course. If the instructor changes, the content of these parts may be **completely different**.
 >>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a

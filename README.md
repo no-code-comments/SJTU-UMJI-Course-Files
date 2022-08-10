@@ -1,6 +1,8 @@
-# UMJI-SJTU COURSE FILES
+# UMJI-SJTU COURSE FILES [ARCHIVED]
 
 <div><img src="https://github.com/no-code-comments/SJTU-UMJI-Course-Files/raw/master/logo/ji_logo.png" alt="ji_logo" width="600" height="150" /></div>
+
+THIS REPOSITORY IS ARCHIVED AND IT IS OUT OF MAINTAINENCE FROM 2022.AUG.10
 
 
 
@@ -8,12 +10,12 @@
 
 When it comes to **Honor Code**, albeit JI students are restrained by it, you don’t need to worry about it when copying and using the files in this repositories. **All of the materials** are not related to any solution to the problems and projects written by other students’ or me, and **all of the materials** are available on the Internet or Canvas.
 
-:warning:For reminder, if you are a JI student and find any solutions to the homework or the projects,
+:warning:For reminder, if you are a JI student and find any solution to the homework or the projects,
 
 - Copy the solutions and submit them. :x:
 - Fully absorb the solutions and copy them. :x:
 - Fully absorb the solutions and revise them. :x:
-- Fully absorb the solutions and **write your own solutions**:grey_exclamation: :heavy_check_mark:
+- Fully absorb the solutions and **write your own solutions** :heavy_check_mark:
 
 Moreover, the materials are owned by corresponding creators. The course slides and assignment files are owned by the instructors. The RC slides are owned by teaching assisstants. The reference textbooks are owned by their authors. The notes in reference folder are owned by me.
 
@@ -23,18 +25,11 @@ Moreover, the materials are owned by corresponding creators. The course slides a
 
 This paragraph is specially for those JI freshmen. Since you have just already stepped into the university, A piece of idea may be useful to you.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 The people who teach you in university is usually called instructor or professor, instead of teacher, not because their skills are higher (even though it is true), but because they are not capable to teach well. They don't have the time to teach well. They don't have the will to teach will. They even don't have the ability to teach well. Therefore, don't expect the instructor can make everything clear, and learn everything by yourselves.
 
 Moreover, some objective facts will be written in README files in the folders. Hope you can know more about the instructor and the course. The statements are strictly related on the time, the instructor and the course materials, so all the materials are just for reference.
 
-=======
-The people who teach you in university is usually called instructor or professor, instead of teacher, not because their skills are higher (even though it is true), but because they are not capable to teach well. They don't have the time to teach well. They don't have the will to teach well. They even don't have the ability to teach well. Therefore, don't expect the instructor can make everything clear and you need to be prepared to learn everything by yourselves.
->>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a
-=======
-The people who teach you in university is usually called instructor or professor, instead of teacher, not because their skills are higher (even though it is true), but because they are not capable to teach well. They don't have the time to teach well. They don't have the will to teach well. They even don't have the ability to teach well. Therefore, don't expect the instructor can make everything clear and you need to be prepared to learn everything by yourselves.
->>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a
 
 
 ## Introduction
@@ -83,15 +78,7 @@ Because of the limitation of Github, one file cannot exceed the maximum size 25M
 - Please read the **course title** and **instructor** carefully, or you will be pumped into a totally wrong way.
 - For **learning new knowledge**, files in **Course slides** or **Reference** give a comprehensive tutorial to the realm what you are searching for. 
 - For **practicing your knowledge**, there are some problems in the files in **Course slides** and **Reference**. However, problems in **Assignment** is **not a good alternative** because no solutions will be provided, except the homework using the problems from the textbooks.
-<<<<<<< HEAD
-<<<<<<< HEAD
-- **Assignment**, **Lab** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little (or totally) different due to the update of the course.
-=======
-- **Assignment**, **Lab** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little different due to the update of the course. If the instructor changes, the content of these parts may be **completely different**.
->>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a
-=======
-- **Assignment**, **Lab** and **Project** are prepared for those students who want to finish the assignments in advance. However, the assignment may be a little different due to the update of the course. If the instructor changes, the content of these parts may be **completely different**.
->>>>>>> aa0a86a83bc5a84ca7f6d3679c961c3bbc7c704a
+- **Assignment**, **Lab** and **Project** are prepared for those students who want to practice. It doesn’t mean that they will be similar to the course assignments… From previous experience, there are cases that even the course is held by the same instructor, the assignment is totally different.
 - For those markdown files, using your own markdown previewer is recommended, since you cannot see math formulas on GitHub, or you need to download specialized plug-in.
 
 
